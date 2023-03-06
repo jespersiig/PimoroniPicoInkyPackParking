@@ -13,5 +13,4 @@ The code is in English with some Danish variables/lead texts throw in:
 * enere = ones
 * slut = finish
 
-The program logic was inspired by the Pimoroni clock-examples:
-  https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/examples/pico_inky/clock.py 
+The program logic was inspired by the [Pimoroni clock example](https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/examples/pico_inky/clock.py) written by [@Gadgetoid](https://github.com/Gadgetoid)
