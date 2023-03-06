@@ -12,3 +12,6 @@ The code is in English with some Danish variables/lead texts throw in:
 * tiere = tens
 * enere = ones
 * slut = finish
+
+The program logic was inspired by the Pimoroni clock-examples:
+  https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/examples/pico_inky/clock.py 
